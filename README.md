@@ -37,6 +37,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 
+##
+<div align="left">
+  <a href="https://github.com/lila1702">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lila1702&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lila1702&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
 <!---
 lila1702/lila1702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
