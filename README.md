@@ -6,7 +6,7 @@
 - 🕹️ I love playing games (My favorite genres are RPGs and Casual games)
 - 📓 I also (kinda) like writing stories, but mostly, just so I can draw random scenes I imagine
 - 💡 I also like making simple games to test my programming capabilities (On Unity mostly, other times without an especific engine)
-- ⛓️ Escrava emocional de tudo da Nintendo (e ainda por cima sem condições de comprar as coisas dela) 🥲
+- ⛓️ Emotionally attached to everything Nintendo (and without the 💰 to afford it) 🥲
 
 ## My university jorney ✏️
 - 🏆 I learned python on my first semester of software engineering, and, in general, it has become one of my favorite programming languages since.
