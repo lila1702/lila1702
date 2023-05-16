@@ -12,7 +12,8 @@
 - 🏆 I learned python on my first semester of software engineering, and, in general, it has become one of my favorite programming languages since.
 - 🏆 I learned the basics of C on my second semester, and while very different from what I was used to, it was an interesting experience.
 - 🏆 Learned the basics of Java and reviewed OOP concepts on my third semester, also learnead some algorithms that are used with graph data structures.
-- 🏆 I'm on my fourth semester learning about Code Bases, like SQL and such, and learning algorithms more thoroughly.
+- 🏆 On my fourth semester, I learned about DataBases with PostgreSQL, and learned algorithm analysis and the most common algorithms.
+- 🏆 I'm on my fifth semester learning about the workings of Operating Systems and Computer Networks.
 
 ### Stuff I know (in no particular order)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,13 +23,13 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### I'm studying (again, in no particular order)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### I'm interested in learning in the future
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
