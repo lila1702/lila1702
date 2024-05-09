@@ -1,4 +1,4 @@
-# 👋 Heyo, I’m @lila1702.
+# 👋 Heyo, I’m Lila.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lila-maria-salvador-frazão/)
 
 ## Things I like ❤️
@@ -9,14 +9,17 @@
 - ⛓️ Emotionally attached to everything Nintendo (and without the 💰 to afford it) 🥲
 
 ## My university jorney ✏️
-- 🏆 I learned python on my first semester of software engineering, and, in general, it has become one of my favorite programming languages since.
-- 🏆 I learned the basics of C on my second semester, and while very different from what I was used to, it was an interesting experience.
+- 🏆 I learned Python on my first semester of software engineering, and, in general, it has become one of my favorite programming languages since.
+- 🏆 I learned the basics of C on my second semester, and while very different from what I was used to, it was an interesting experience. I also learned the basics of Data Sctructures.
 - 🏆 Learned the basics of Java and reviewed OOP concepts on my third semester, also learnead some algorithms that are used with graph data structures.
-- 🏆 On my fourth semester, I learned about DataBases with PostgreSQL, and learned algorithm analysis and the most common algorithms.
-- 🏆 I'm on my fifth semester learning about the workings of Operating Systems and Computer Networks.
+- 🏆 On my fourth semester, I learned about DataBases with PostgreSQL, and learned algorithm analysis and the most common search and sorting algorithms.
+- 🏆 On my fifth semester, I learned about the workings of Operating Systems and Computer Networks.
+- 🏆 On my sixth one, I joined the extracurricular project Learning Lab, from my University, where I put in practice my BPMN Modeling skills, and leadership skills, guiding the Process Team, and using Scrum. I also learned about software architectures patterns, software testing and manteinance, and QA analysis.
+- 🏆 Currently on my seventh semester, undergoing a internship in Back End with C#/.NET, and doing Unit Tests. While on my University, I'm taking classes about Artificial Intelligence algorithms and formal languages and automata.
 
 ### Stuff I know (in no particular order)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -24,19 +27,12 @@
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### I'm studying (again, in no particular order)
+### I'm studying on my free time (again, in no particular order)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### I'm interested in learning in the future
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 
 ##
 <div align="left">
