@@ -1,7 +1,5 @@
 # 👋 Heyo, I’m Lila.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lila-maria-salvador-frazão/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lila_maria_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lila_maria)
 
 ## Who am I? 💜
 I'm a Software Engineer (finishing university) and Game Enthusiast. It's been the reason I became interested in the area, and it's how I measure my evolution through the years.
